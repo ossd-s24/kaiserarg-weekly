@@ -10,5 +10,5 @@ permalink: /about/
 - I love guitar and am a big fan of Chet Baker. 
 - Glad to be taking this class!
 
-[My personal website](https://bradleyhuang.tech)
+[My personal website (not my blog)](https://bradleyhuang.tech)
 
