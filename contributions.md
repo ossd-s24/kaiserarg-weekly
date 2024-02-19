@@ -22,7 +22,8 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 13   | https://www.openstreetmap.org/changeset/147431089,  https://www.openstreetmap.org/changeset/147431274,  https://www.openstreetmap.org/changeset/147431282, https://www.openstreetmap.org/changeset/147431362| OpenStreet Map feature    |   added new restuarant in the area , changed position of supermarket and correct store hours, removed non-existent gym, added scaffolding area for a street with scaffolding |
+| Feb 13   | (LINK 1)[https://www.openstreetmap.org/changeset/147431089],  (LINK 2)[https://www.openstreetmap.org/changeset/147431274],  (LINK 3)[https://www.openstreetmap.org/changeset/147431282], (LINK 4)[https://www.openstreetmap.org/changeset/147431362]  | OpenStreet Map feature    |   added new restuarant in the area , changed position of supermarket and correct store hours, removed non-existent gym, added scaffolding area for a street with scaffolding |
+| Feb 13   |  (LINK 1)[https://www.openstreetmap.org/changeset/147432755],  (LINK 2)[https://www.openstreetmap.org/changeset/147432806]  |  OpenStreet Map feature  |  cafe closed down, new cafe opening in a location, added a smokeshop that exists now to a location  |
+| Feb 14   |  (LINK 1)[https://www.openstreetmap.org/changeset/147462565], (LINK 2)[https://www.openstreetmap.org/changeset/147465024]  |  OpenStreet Map feature   |  Removed shut down Walgreens,  added all shops and info on astor place between lafeyette and broadway: tmpl fitness, felix roasting co, raising canes, sweetgreen  |
+| Feb 15 |  (LINK 1)[https://www.openstreetmap.org/changeset/147515026] | OpenStreet Map Feature | Added a new wine bar on John Street in FiDi|
 
-| Feb 13 |  https://www.openstreetmap.org/changeset/147432755,  https://www.openstreetmap.org/changeset/147432806  |   OpenStreet Map feature  |  cafe closed down, new cafe opening in a location, added a smokeshop that exists now to a location  |
-|     |     |     |      |
