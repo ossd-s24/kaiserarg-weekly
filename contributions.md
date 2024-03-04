@@ -29,6 +29,7 @@ Replace the first row with your own contribution.
 | Feb 25 |  [LINK 1](https://www.openstreetmap.org/changeset/147906130) | OpenStreet Map Feature | Added dashmart on Astor Pl which was marked as closed down|
 | Feb 25 |  [LINK 1](https://www.openstreetmap.org/changeset/147907904) | OpenStreet Map Feature | deleted cafe "Match matcha" that closed down, added laundromat that is still in operation, modified bubble tea shop "Ionestea" hours and fixed alignments|
 | Feb 25 |  [LINK 1](https://en.wikipedia.org/w/index.php?title=Ashley_Judd&oldid=1210266841), [LINK 2](https://en.wikipedia.org/w/index.php?title=Brooklyn_Technical_High_School&oldid=1210270679), [LINK 2](https://en.wikipedia.org/w/index.php?title=Pap_test&oldid=1210272150)| Wikipedia edits | added citation for on Ashley Judd page that was missing citation, added new information on the popular culture section on Brooklyn Technical High School page, added citation for pap test articlet that missed citations on procedure |
-
-
-
+| Feb 28 |  [LINK 1](https://en.wikipedia.org/w/index.php?title=Animation&oldid=1210756840) | Wikipedia edit | added citations for all three mentioned awards for animations article on wikipedia|
+| Feb 29 |  [LINK 1](https://www.openstreetmap.org/changeset/147997573) | OpenStreetmap feature | added salon and pharmacy on hester, modified laundromat fields, added new burger place (KO burger) on eldridge.|
+| Mar 3 |  [LINK 1](https://en.wikipedia.org/w/index.php?title=Allergen&oldid=1211555345) | Wikipedia edit | added citations for the two different ways off which allergy immunotherapy can be administered|
+| Mar 3 |  [LINK 1](https://www.openstreetmap.org/changeset/148153286) | OpenStreetmap feature | marked pasteless capy as closed, added new restaurant in place named Fer|
