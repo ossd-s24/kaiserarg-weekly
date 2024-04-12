@@ -39,3 +39,5 @@ Replace the first row with your own contribution.
 | Apr 3 |  [LINK 1](https://en.wikipedia.org/w/index.php?title=Garland,_North_Carolina&oldid=1217151790) [LINK 2](https://en.wikipedia.org/w/index.php?title=Cerebral_palsy&oldid=1217152291) | Wikipedia edit | fixed abbr, added two sources for austin brown getting elected in garland NC, added citations for celebral palsy page regarding preferred terminologies|
 | Apr 7 |  [LINK 1](https://www.openstreetmap.org/changeset/149706831)  | OpenStreetmap feature | added 3 dessert cafe on canal st in chinatown|
 | Apr 7 |  [LINK 1](https://en.wikipedia.org/w/index.php?title=December_3&oldid=1217766335)  | Wikipedia edit | added citation for joseph mcmanners birthday |
+| Apr 8 |  [LINK 1](https://www.openstreetmap.org/changeset/149757580)  | OpenStreetmap feature | added Fong On Tofu shop hours |
+| Apr 9 |  [LINK 1](https://www.openstreetmap.org/changeset/149809859)  [LINK 2](https://www.openstreetmap.org/changeset/149809859) | OpenStreetmap feature | Added Smoke shop on Hester St, Added new Cafe on 65th St in Brooklyn |
