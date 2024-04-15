@@ -43,3 +43,4 @@ Replace the first row with your own contribution.
 | Apr 9 |  [LINK 1](https://www.openstreetmap.org/changeset/149809859)  [LINK 2](https://www.openstreetmap.org/changeset/149809859) | OpenStreetmap feature | Added Smoke shop on Hester St, Added new Cafe on 65th St in Brooklyn |
 | Apr 12 |  [LINK 1](https://www.openstreetmap.org/changeset/149931239) | OpenStreetmap feature | added shops on 65th st, new juice spot, Hemo's Spot, and Sunny Hair Salon |
 | Apr 12 |  [LINK 1](https://en.wikipedia.org/w/index.php?title=Rutgers_University&oldid=1218642836) | Wikipedia edit | added citation for department of childhood studies info |
+| Apr 14 |  [LINK 1](https://www.openstreetmap.org/changeset/150005083) | OpenStreetmap feature | added fast food restaurant on allen st |
