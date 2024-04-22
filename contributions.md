@@ -44,3 +44,7 @@ Replace the first row with your own contribution.
 | Apr 12 |  [LINK 1](https://www.openstreetmap.org/changeset/149931239) | OpenStreetmap feature | added shops on 65th st, new juice spot, Hemo's Spot, and Sunny Hair Salon |
 | Apr 12 |  [LINK 1](https://en.wikipedia.org/w/index.php?title=Rutgers_University&oldid=1218642836) | Wikipedia edit | added citation for department of childhood studies info |
 | Apr 14 |  [LINK 1](https://www.openstreetmap.org/changeset/150005083) | OpenStreetmap feature | added fast food restaurant on allen st |
+| Apr 16 |  [LINK 1](https://www.openstreetmap.org/changeset/150113117) | OpenStreetmap feature | added deli on the corner of 66th st |
+| Apr 17 |  [LINK 1](https://www.openstreetmap.org/changeset/150113166) [LINK 2](https://www.openstreetmap.org/changeset/150113237)| OpenStreetmap feature | added butcher shop, 99cent store on 65th, fixed cheung fun food cart location on Elizabeth st|
+| Apr 18 |  [LINK 1](https://www.openstreetmap.org/changeset/150155118) | OpenStreetmap feature | added hours, phone numbers, info yunshang rice noodle|
+| Apr 21 |  [LINK 1](https://www.openstreetmap.org/changeset/150324560) [LINK 2](https://www.openstreetmap.org/changeset/150323395)| OpenStreetmap feature | Edited Address For 99 Ct, Halal Meat Store, Added limo chauffer service shop, added chinese dimsum restaurant golden city, added scaffolding on 66th and 18, added mexican taco truck on 65th street & 18th ave, added vivi;'s bubble tea shop and edit 2 fixed phone num for a place I edited before|
