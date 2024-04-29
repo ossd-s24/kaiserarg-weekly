@@ -49,3 +49,6 @@ Replace the first row with your own contribution.
 | Apr 18 |  [LINK 1](https://www.openstreetmap.org/changeset/150155118) | OpenStreetmap feature | added hours, phone numbers, info yunshang rice noodle|
 | Apr 21 |  [LINK 1](https://www.openstreetmap.org/changeset/150324560) [LINK 2](https://www.openstreetmap.org/changeset/150323395)| OpenStreetmap feature | Edited Address For 99 Ct, Halal Meat Store, Added limo chauffer service shop, added chinese dimsum restaurant golden city, added scaffolding on 66th and 18, added mexican taco truck on 65th street & 18th ave, added vivi;'s bubble tea shop and edit 2 fixed phone num for a place I edited before|
 | Apr 21|  [LINK 1](https://en.wikipedia.org/w/index.php?title=Plainfield,_Indiana&oldid=1220150106) | Wikipedia edit | added citation and added statistics for section on warehouse district in Plainfield, Indiana's Wikipedia page |
+| Apr 27|  [LINK 1](https://www.openstreetmap.org/changeset/150593852) | OpenStreetmap feature | added nana's green tea in ktwon |
+| Apr 28|  [LINK 1]() | OpenStreetmap feature |  |
+| Apr 28|  [LINK 1]() | Wikipedia edit |  |
